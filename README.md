@@ -1,16 +1,7 @@
-# widget_test
+### GlassMorphism :
 
-A new Flutter project.
+- Glassmorphism is a user interface (UI) trend of cards in Flutter and a very important component of website consent and achievement. It is very responsive to changes in UI patterns and styles and various evolving styles.
 
-## Getting Started
+ <img src="https://github.com/AnjaliPurohit2811/widget_test/assets/143180602/18e9ae8f-fc2f-4b25-bc9b-992880c0a369" alt="Image 2" width="180" height="auto">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
